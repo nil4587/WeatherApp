@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Nileshkumar M. Prajapati on 12/07/22.
+  
+*/
+
+"AlertSettingsTitle" = "Settings";
+"AlertCancelTitle" = "Cancel";
+"AlertOkTitle" = "Ok";
